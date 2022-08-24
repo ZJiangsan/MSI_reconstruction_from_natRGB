@@ -1,2 +1,2 @@
 # MSI_reconstruction_from_natRGB
-train the model to map natural color RGB to its hyperspectral counterpart
+train the model to map a natural color RGB image to its hyperspectral counterpart
